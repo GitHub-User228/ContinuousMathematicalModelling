@@ -1,0 +1,16 @@
+{
+    "train_based": {
+        "mean_absolute_percentage_error_TRAIN": 0.8467448217883115,
+        "mean_absolute_percentage_error_VAL": 1.4827981507888564,
+        "params": {
+            "b": 0.020966468839933187
+        }
+    },
+    "val_based": {
+        "mean_absolute_percentage_error_TRAIN": 0.9937881906082272,
+        "mean_absolute_percentage_error_VAL": 0.9950305665099755,
+        "params": {
+            "b": 0.0
+        }
+    }
+}
